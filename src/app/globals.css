@@ -8,6 +8,10 @@
   --background-end-rgb: 255, 255, 255;
   --primary-color: #4ECDC4;
   --secondary-color: #96CEB4;
+
+  --font-barber: 'Rubik', 'Assistant', sans-serif;
+  --header-height: 70px;
+  --transition-speed: 0.3s;
 }
 
 html {
