@@ -1,0 +1,6 @@
+# robots.txt for מספרה אלפא
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://מספרה-אלפא.com/sitemap.xml
