@@ -1,11 +1,78 @@
 {
-  "timestamp": "2025-04-06T15:49:04.118Z",
+  "timestamp": "2025-04-06T15:49:40.187Z",
   "status": {
-    "totalComponents": 0,
+    "totalComponents": 11,
     "completedComponents": 0,
     "failedComponents": 0,
     "progress": 0
   },
-  "components": [],
+  "components": [
+    {
+      "name": "Header",
+      "type": "header",
+      "status": "pending",
+      "description": "Navigation header with logo and menu items"
+    },
+    {
+      "name": "HeroSection",
+      "type": "hero",
+      "status": "pending",
+      "description": "Main hero section with headline, description and call to action"
+    },
+    {
+      "name": "AboutSection",
+      "type": "about",
+      "status": "pending",
+      "description": "Section describing the barbershop's history, mission and values"
+    },
+    {
+      "name": "ServicesSection",
+      "type": "services",
+      "status": "pending",
+      "description": "Section showcasing the barbershop's services with descriptions and pricing"
+    },
+    {
+      "name": "TeamSection",
+      "type": "team",
+      "status": "pending",
+      "description": "Section introducing the barbershop's professional team members"
+    },
+    {
+      "name": "GallerySection",
+      "type": "gallery",
+      "status": "pending",
+      "description": "Visual gallery showcasing haircuts and styles"
+    },
+    {
+      "name": "TestimonialsSection",
+      "type": "testimonials",
+      "status": "pending",
+      "description": "Section displaying customer testimonials and reviews"
+    },
+    {
+      "name": "FAQSection",
+      "type": "faq",
+      "status": "pending",
+      "description": "Frequently asked questions with expandable answers"
+    },
+    {
+      "name": "ContactSection",
+      "type": "contact",
+      "status": "pending",
+      "description": "Contact form and business information"
+    },
+    {
+      "name": "Footer",
+      "type": "footer",
+      "status": "pending",
+      "description": "Website footer with copyright, links and additional information"
+    },
+    {
+      "name": "ScrollToTop",
+      "type": "utility",
+      "status": "pending",
+      "description": "Button that appears when scrolling to return to the top of the page"
+    }
+  ],
   "repoName": "webis-site-msprh-alpa-1743954521523"
 }
